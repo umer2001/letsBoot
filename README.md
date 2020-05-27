@@ -1,5 +1,7 @@
 # letsBoot
 
+deployment url : http://lets_boot.surge.sh/
+
 Deploy Static Website using Github Actions
 
 In this project, you will deploy a static website  using Github Actions
